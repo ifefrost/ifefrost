@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ifefrost
-- 👀 I’m interested in learning and building web technologies
-- 🌱 I’m currently learning frontend Frameworks
-- 💞️ I’m looking to collaborate on projects that will give me the best opportunites to learn and experience the tech ecosystem.
+- 👀 I’m interested in building web technologies
+- 🌱 I’m a Full Stack Developer working with frontend and backend frameworks, currently working mostly with the MERN stack
+- 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me on twitter @ifeladipo or email temiladeladipo@hotmail.com
 
 <!---
